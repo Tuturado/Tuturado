@@ -27,6 +27,9 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 <img align="center" alt="Java" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
   style="max-widht:100%"> 
 </img>
+<img align="center" alt="Github" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+  style="max-widht:100%"> 
+</img>
 
 
 
