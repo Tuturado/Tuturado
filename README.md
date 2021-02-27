@@ -15,5 +15,8 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 
 ---
 Connect with me:
-
+<a href="https://www.linkedin.com/in/alef-paula-aa98041ba/" target="_blank">
+  <img align="center" alt="alef-linkedin" height="40" src="https://www.flaticon.com/br/icone-gratis/linkedin_174857">
+   <style="max-width:100%;">                      
+</a>
 
