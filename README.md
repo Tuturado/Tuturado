@@ -6,11 +6,10 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 ---
 ## My Skills
 
-<img align="center" alt="js" height="50" widht="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  style="max-widht:100%"> 
-  
-<img align="center" alt="react" height="50" widht="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-  style="max-widht:100%"> 
+<img align="center" alt="js" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  style="max-widht:100%" </img> 
+<img align="center" alt="react" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+  style="max-widht:100%" </img>
 
 
 ---
