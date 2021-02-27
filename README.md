@@ -1,7 +1,7 @@
 # Hi 👋
 
 Hello, my name is Alef and I am a student in the 7th period of the Computer Science course at the Federal University of Itajubá.
-I am currently focusing my efforts on mastering Front-end technologies, but I never forget the Back-end.
+I am currently focusing my efforts on mastering Front-end technologies, but I never forget the Back-end. :computer:
 
 ---
 ## My Skills
