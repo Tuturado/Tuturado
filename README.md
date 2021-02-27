@@ -6,14 +6,9 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 ---
 ## My Skills
 
-+ HTML 5
-+ CSS3
-+ Javascript
-+ C
-+ C++
-+ Java
-+ Bootstrap
-+ React JS
+<img align="center" alt="js" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  style="max-widht:100%"> 
+
 
 ---
 ## Connect with me:
