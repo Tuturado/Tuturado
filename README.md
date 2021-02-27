@@ -44,4 +44,4 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 </a>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuturado&layout=compact)](https://github.com/Tuturado/github-readme-stats)
