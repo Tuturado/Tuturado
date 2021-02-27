@@ -19,7 +19,7 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/alef-paula-aa98041ba/" target="_blank">
-  <img align="center" alt="alef-linkedin" height="30" widht="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+  <img align="center" alt="alef-linkedin" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
   style="max-widht:100%">                      
 </a>
 
