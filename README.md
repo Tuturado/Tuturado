@@ -9,6 +9,9 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 <img align="center" alt="js" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   style="max-widht:100%"> 
 </img> 
+<img align="center" alt="HTML5" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+  style="max-widht:100%"> 
+</img>
 <img align="center" alt="react" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
   style="max-widht:100%"> 
 </img>
