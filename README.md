@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Tuturado/Tuturado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Alef and I am a student in the 7th period of the Computer Science course at the Federal University of Itajubá.
+I am currently focusing my efforts on mastering Front-end technologies, but I never forget the Back-end, some of the technologies that I master and that I currently use are:
 
-Here are some ideas to get you started:
++ HTML 5
++ CSS3
++ Javascript
++ C
++ C++
++ Java
++ Bootstrap
++ React JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My contact information is:
 
 
