@@ -18,6 +18,17 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 <img align="center" alt="react" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
   style="max-widht:100%"> 
 </img>
+<img align="center" alt="Bootstrap" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+  style="max-widht:100%"> 
+</img>
+<img align="center" alt="C" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+  style="max-widht:100%"> 
+</img>
+<img align="center" alt="Java" height="70" widht="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+  style="max-widht:100%"> 
+</img>
+
+
 
 
 ---
