@@ -46,6 +46,6 @@ I am currently focusing my efforts on mastering Front-end technologies, but I ne
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuturado&layout=compact)](https://github.com/Tuturado/github-readme-stats)
 
-<p align="center"> Entre em contato pelo LinkedIn, obrigado pela visita!!! :nerd_face:</p>
+<p align="center"> Contact us via LinkedIn. Thanks for the visit!!! :nerd_face:</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Tuturado/count.svg" /></p>
 
