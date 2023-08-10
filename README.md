@@ -1,6 +1,6 @@
 # Hi :vulcan_salute:
 
-Hello, my name is Alef and I am a student in the 8th period of the Computer Science course at the Federal University of Itajubá. I always look for new knowledge, aiming to be a good full-stack professional . :computer:
+Hello, my name is Alef and I am a student in the 11th period of the Computer Science course at the Federal University of Itajubá. I always look for new knowledge, aiming to be a good full-stack professional . :computer:
 
 ---
 ## My Skills
